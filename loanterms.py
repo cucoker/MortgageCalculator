@@ -3,5 +3,7 @@ class Loanterms:
         self.APR = apr
         self.Term = term
         self.saleprice = saleprice
+        
+        #Added to test source control
 
         
