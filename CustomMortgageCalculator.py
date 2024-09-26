@@ -4,6 +4,7 @@ from datetime import datetime
 
 #from dateutil.relativedelta import relativedelta
 #Adding Comment for source control
+#Adding Comment for merge conflict
 
 class MortageCalculator:
     def __init__(self, loanterms, startdate):
