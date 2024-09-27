@@ -6,6 +6,7 @@ from datetime import datetime
 #Adding Comment for source control
 #Adding another comment for source control
 # Adding Comment from developer 2
+#Added a comment in visual studio
 
 class MortageCalculator:
     def __init__(self, loanterms, startdate):
