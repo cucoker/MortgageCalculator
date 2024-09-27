@@ -6,5 +6,6 @@ class Loanterms:
         
         #Added to test source control
         #Added another comment to loan terms
+        #added a third comment to loan terms
 
         
