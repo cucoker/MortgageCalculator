@@ -8,4 +8,6 @@ class Loanterms:
         #Added another comment to loan terms
         #added a third comment to loan terms
 
+       #Maggie Comment
+
         
